@@ -14,4 +14,4 @@ libraryDependencies += "org.eclipse.jetty" % "jetty-jsp" % "9.1.0.v20131115" % "
 
 libraryDependencies += "org.glassfish.web" % "javax.servlet.jsp" % "2.3.2"
 
-libraryDependencies += "org.springframework" % "spring-webmvc" % "3.2.0.RELEASE"
+libraryDependencies += "org.springframework" % "spring-webmvc" % "4.0.1.RELEASE"
